@@ -22,15 +22,11 @@
 
 /* A partir de aquí no necesitas cambiar nada, pero puedes explorar */
 :root {
-  --tinta: #2B1D14;
-  --pared: #FBF6EE;
-  --cal: #F8E3C4;
-  --blanco: #FFFDF9;
-  --barro: #C0673D;
-  --mecate: #C9A46A;
-  --madera: #9C6B45;
-  --madera-oscura: #6E4A2F;
-
+  --color-1: #101010;
+  --color-2: #C7B182;
+  --color-3: #634F5F;
+  --cuerpo: #0D0D0D;
+}
   --fuente: "Bricolage Grotesque", system-ui, sans-serif;
   --fuente-rotulo: "Shrikhand", "Arial Black", serif;
 
