@@ -498,3 +498,11 @@ body::before {
     transition-duration: 0.01ms !important;
   }
 }
+.subtitulo {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #C7B182;
+  text-align: center;
+  margin: 0.5rem 0 1.5rem;
+}
